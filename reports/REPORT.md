@@ -49,8 +49,6 @@ lần sau rework. Đếm số phần tử trong từng danh sách lỗi, không 
 lại một số lỗi”. -->
 
 - train_13.txt, [ĐIỀN người thứ mấy + khớp nào - vd. "người #2, left_wrist/right_wrist"]: sửa lỗi `dao_trai_phai` do ảnh mờ khó xác định trái/phải.
--
--
 
 **Lỗi đảo trái/phải của tôi xảy ra ở ảnh nào?** Ảnh đó dễ hay khó? Nếu là ảnh dễ,
 bạn nghĩ vì sao mình vẫn sai?
