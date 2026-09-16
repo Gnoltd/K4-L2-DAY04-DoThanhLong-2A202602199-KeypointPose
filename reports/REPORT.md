@@ -132,7 +132,7 @@ Không chỉ ghi “cẩn thận hơn khi gán”. -->
 5. Ảnh bạn gán tệ nhất có *cũng* là ảnh model đoán tệ nhất không? Nếu có, điều đó
    nói gì về bức ảnh đó?
 
-   Không hoàn toàn trùng: ảnh bạn gán tệ nhất so với gold là `train_15.jpg` người #1
+   Không hoàn toàn trùng: ảnh gán tệ nhất so với gold là `train_15.jpg` người #1
    (OKS = 0.623, tệ nhất trong 29 skeleton), còn ảnh model đoán tệ nhất so với nhãn của
    bạn là `train_13.jpg` (OKS = 0.602). Hai ảnh khác nhau nhưng đều nằm trong nhóm OKS
    thấp nhất ở cả hai bảng xếp hạng - gợi ý cả hai đều là ảnh khó thật (nhiều che khuất/
