@@ -26,8 +26,7 @@ Ba khớp có `%v=1` cao nhất (chép từ `reports/visibility_report.md`):
 
 Chúng có đúng là những khớp bạn thấy khó gán nhất không? Nếu không, giải thích.
 
-<!-- Trả lời 2–4 câu. Phân biệt “hay bị che” với “khó xác định vị trí giải phẫu”; nêu bằng
-chứng nhìn thấy thay vì chỉ nêu cảm giác. -->
+Đúng một phần, nhưng vì hai lý do khác nhau. left_hip khó vì khó xác định vị trí giải phẫu: trong các ảnh người mặc quần dài ngồi trên xe máy/xe đạp (vd. train_09), hông không hề có bề mặt nào lộ ra qua quần áo nên luôn phải ước lượng theo tỷ lệ cơ thể, không có cách nào "nhìn thấy rõ hơn" dù zoom kỹ đến đâu. right_ankle/right_knee thì khó vì hay bị che bởi vật thể trong cảnh (thân xe máy, fender, khung xe - vd. train_15 chân trái bị bánh trước xe máy che) chứ không phải vì vị trí giải phẫu mơ hồ - nếu bỏ chiếc xe đi thì chân vẫn thấy rõ bình thường.
 
 ## 2. Chấm với gold
 
